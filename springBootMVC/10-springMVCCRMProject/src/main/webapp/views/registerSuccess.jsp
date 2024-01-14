@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Customer successfully registered</title>
+<title>Register successful</title>
 <link  type="text/css" rel="stylesheet" href=./css/style.css/>
 </head>
 <body>
 	<div class="details">
-   		<h1 style='color: red; text-align:center'>Successful registration</h1>
+   		<h1 style='color: red; text-align:center'>Register successful</h1>
    		<button onclick="window.location.href='/'">View details</button>
    	</div>
 </body>

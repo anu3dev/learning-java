@@ -10,7 +10,7 @@
 </head>
 <body>
 <div class="details">
-	<h1>Customer data:</h1>
+	<h1>Customer records:</h1>
 	<table>
 		<tr>
 			<th>Name:</th>
@@ -35,7 +35,7 @@
 			</tr>
 		</c:forEach>
 	</table>
-	<button onclick="window.location.href='registerCustomer'">Register Customer</button>
+	<button onclick="window.location.href='registerCustomer'">Register customer</button>
 </div>
 </body>
 </html>
