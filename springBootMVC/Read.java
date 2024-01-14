@@ -186,3 +186,26 @@
  * We can add model data in Model object and Map both in key value pair.
  * We can get the model data in view file with the help of key.
  */
+
+
+/*
+ * Query parameter -> 
+ * send data from UI to controller in URL
+ * query parameter should in end and start with ?
+ * query param will represent data in form of key and value pair
+ * 
+ * localhost:8090/user?name=Anurag
+ * localhost:8090/user?name=Anurag&age=26
+ */
+
+
+/*
+ * Path parameter -> 
+ * send data from UI to controller in URL
+ * path parameter can be present anywhere in url
+ * path param will represent data in form of only value not key
+ * 
+ * http://localhost:8090/employee/Anurag
+ * http://localhost:8090/employee/Anurag/admin
+ */
+
