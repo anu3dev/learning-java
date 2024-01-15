@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.sb.springMVCCRMProject.model.CustomerModel;
 import com.sb.springMVCCRMProject.service.ICustomerService;
-import com.sb.springMVCCRMProjectutils.Utils;
 
 @Controller
 public class CustomerController {
